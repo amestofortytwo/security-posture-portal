@@ -1,4 +1,4 @@
-## **Amesto Fortytwo Product Roadmap**
+## **Fortytwo Product Roadmap**
 
 We understand the importance of transparency and planning in achieving our goals and meeting our customers' needs. That's why we're excited to present our [Product Roadmap](https://github.com/orgs/amestofortytwo/projects/12/views/1) —a dynamic tool that outlines our vision and strategy for the future of our flagship product, the Security Posture Portal (with many more to come!).
 
